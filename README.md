@@ -101,4 +101,4 @@ This project uses data from the Job Search API available on RapidAPI.
 
 5. How can I contribute?
 
-   We welcome contributions! Please check out our Contribution Guidelines
+   We welcome contributions! Please check out our Contribution Guidelines.
